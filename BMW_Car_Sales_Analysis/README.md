@@ -121,7 +121,6 @@ BMW_Car_Sales_SQL_Project/
 │   ├── data_load.sql
 │   ├── general_analysis.sql
 │   ├── covid_trend_analysis.sql
-│   └── insights_queries.sql
 |__ power bi/
 |   |__ bmwsalesanalysys.pbix
 |
