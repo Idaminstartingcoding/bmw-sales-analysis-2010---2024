@@ -1,4 +1,4 @@
-# 🚗 BMW Car Sales Analysis (2010–2024)
+# BMW Car Sales Analysis (2010–2024)
 
 ##  Project Overview  
 This project analyzes BMW car sales data from **2010 to 2024** across multiple regions. The goal is to uncover sales and pricing trends, identify key market insights, and **deep dive into the impact of the COVID-19 era (2020 onwards)**.  
